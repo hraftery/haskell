@@ -1206,7 +1206,7 @@
     {
       "title": "Non-strict",
       "content": "Lazy evaluation only provides results as needed, allowing for infinite data structures.",
-      "icon": "lazy"
+      "icon": "evolving"
     },
     {
       "title": "Strong, static typing",
