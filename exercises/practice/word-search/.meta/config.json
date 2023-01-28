@@ -1,0 +1,23 @@
+{
+  "authors": [
+    "hraftery"
+  ],
+  "contributors": [
+  ],
+  "files": {
+    "solution": [
+      "src/WordSearch.hs",
+      "package.yaml"
+    ],
+    "test": [
+      "test/Tests.hs"
+    ],
+    "example": [
+      ".meta/examples/success-standard/src/WordSearch.hs"
+    ],
+    "invalidator": [
+      "stack.yaml"
+    ]
+  },
+  "blurb": "Create a program to solve a word search puzzle."
+}

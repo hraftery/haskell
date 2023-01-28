@@ -4,6 +4,7 @@ bin/configlet.exe
 
 # exercism/haskell specific patterns
 *.cabal
+stack.yaml.lock
 
 # sorted default .gitignore from github/gitignore/Haskell.gitignore
 *.aux
@@ -25,3 +26,6 @@ cabal.project.local
 cabal.sandbox.config
 dist
 dist-*
+
+# editor specific
+.vscode/

@@ -1254,6 +1254,19 @@
         "topics": [
           "strings"
         ]
+      },
+      {
+        "slug": "word-search",
+        "name": "Word Search",
+        "uuid": "00947987-ba4a-4da5-8bee-17cec2202af5",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5,
+        "topics": [
+          "strings",
+          "maybe",
+          "lists"
+        ]
       }
     ],
     "foregone": [
